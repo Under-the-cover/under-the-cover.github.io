@@ -53,3 +53,4 @@ plugins:
 minima:
   nav_pages:
     - references.markdown
+future: true
